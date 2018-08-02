@@ -1,0 +1,13 @@
+﻿
+
+QPushButton#Loginbutton{
+    background-image:url(:/../sourceskin/loginInitial.png);
+}
+
+QPushButton#Loginbutton:hover{
+   background-image:url(:/../sourceskin/loginhover.png);
+}
+
+QPushButton#Loginbutton:pressed{
+   background-image:url(:/../sourceskin/loginpress.png);
+}

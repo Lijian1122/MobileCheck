@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/close.png</file>
+        <file>pic/close1.jpg</file>
+        <file>pic/logo.ico</file>
+        <file>pic/min.png</file>
+        <file>pic/labelic.jpg</file>
+        <file>pic/labericon.jpg</file>
+        <file>pic/titlelabel.jpg</file>
+        <file>pic/titlelabel.bmp</file>
+        <file>pic/MessCheckDo.png</file>
+        <file>../sourceskin/loginhover.png</file>
+        <file>../sourceskin/loginInitial.png</file>
+        <file>../sourceskin/loginpress.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sourceskin/useraddhover.png</file>
+        <file>sourceskin/useraddinit.png</file>
+        <file>sourceskin/useraddpress.png</file>
+    </qresource>
+</RCC>

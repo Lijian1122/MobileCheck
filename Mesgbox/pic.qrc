@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/close1.jpg</file>
+        <file>pic/close.png</file>
+        <file>pic/min.png</file>
+        <file>pic/cancel.png</file>
+        <file>pic/export.png</file>
+        <file>pic/modify.png</file>
+    </qresource>
+</RCC>
